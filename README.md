@@ -1,1 +1,1 @@
-# quotes-app
+This project is a Random Quote Generator web application that displays motivational quotes to users. By clicking a button, users can view different quotes dynamically. The application is built using HTML, CSS, and JavaScript to provide an interactive experience. It is deployed using Vercel for easy access.
